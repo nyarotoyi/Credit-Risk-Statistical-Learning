@@ -1,4 +1,4 @@
-# Credit-Risk-Statistical-Learning
+
 # Credit Risk Prediction: Parametric vs Non-Parametric Statistical Models
 
 ## Project Overview
